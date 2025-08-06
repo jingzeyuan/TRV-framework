@@ -25,7 +25,7 @@ These datasets are merged and preprocessed into a single dataset (`Full_data`) w
 
 ## 🧠 Core Analysis Script
 
-- **R codes for TVR framework_final.R**  
+- **R codes for TRV framework_final.R**  
   This is the **main script** that implements the full TRV framework using the above datasets. It includes:
   
   - Data preparation and merging (creating `Full_data`)  
